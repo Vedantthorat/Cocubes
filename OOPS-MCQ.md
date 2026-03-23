@@ -1,6 +1,6 @@
 Link : https://www.interviewbit.com/oops-mcq/#total-access-specifiers-in-oops-for-c-are
 
-
+link is given above 
 Here’s the **complete Markdown list of all 52 OOPs MCQs** compiled into one continuous study sheet:
 
 ```markdown
